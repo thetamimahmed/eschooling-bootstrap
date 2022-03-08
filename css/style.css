@@ -1,0 +1,48 @@
+*{
+    font-family:'Josefin Sans', sans-serif;
+}
+.professor{
+    width: 200px;
+    margin: 0 auto;
+}
+.instructor-bg{
+    background-color: #dfe6e9;
+}
+.instructor{
+    width: 150px;
+   
+}
+.instructor > img{
+    width: 100%;
+    border: 5px solid white;
+    border-radius: 50%;
+}
+.footer-nav li{
+    list-style: none;
+}
+.footer-nav li a{
+    display: inline-block;
+    text-decoration: none;
+    color:white;
+    margin-bottom: 5px;
+}
+hr.style-three {
+    border: 0;
+    border-bottom: 1px dashed #ccc;
+    background: #999;
+}
+.social-icons p{
+    margin-right: 10px;
+}
+.facebook{
+    color: #328EF5;
+}
+.twitter{
+    color: #00B6F1;
+}
+.linkedin{
+    color: #0077B5;
+}
+/* .instructor-text{
+    margin-left: -120px;
+} */
